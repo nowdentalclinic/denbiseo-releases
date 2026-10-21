@@ -1,0 +1,9 @@
+{
+  "version": "0.1.1",
+  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.1/denbiseo-setup-0.1.1.exe",
+  "size": 124440299,
+  "sha512": "wHFOzljAEHRxVIHYOVXphHVJI7pYdpnI8x1w6KLP2Lib9iQPcA2GOvMjyd9Lk8e8dqJNUKK2hc3AUMYBy0RlCw==",
+  "notes": "첫 자동 업데이트 버전: 업데이트 장치, 환자 설명 모으기 환자별 저장, 사보험 확인 화면 정리",
+  "channel": "test",
+  "publishedAt": "2026-10-21T12:22:47.513Z"
+}
