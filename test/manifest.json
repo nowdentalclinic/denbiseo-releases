@@ -1,9 +1,9 @@
 {
-  "version": "0.1.5",
-  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.5/denbiseo-setup-0.1.5.exe",
-  "size": 124399126,
-  "sha512": "iyHOScg1iluNSR5bLX/B+an1pQe2uQGtSmQzMzfqm0eSk0KDyq7IbzXI1hJdQNjUdbsOV/TQaHMID+tTRjP/6g==",
-  "notes": "로그인 편의 기능(아이디·비밀번호 기억, 화상키보드, 비밀번호 재설정), 첫 화면 상담 목록, 신환 모음 저장, 환자용 화면 모으기",
+  "version": "0.1.6",
+  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.6/denbiseo-setup-0.1.6.exe",
+  "size": 124403051,
+  "sha512": "oq6ZySBiso1xw4ZRfjeanM0ClitT4mh+ELOszWIwm2q7p/AsrIKYh9gb90+RIXWjG5Du2/DcWyxkgOIUozZzlQ==",
+  "notes": "개선 메모 탭, 환자 설명 모음 단추 오른쪽 위·깜박임, 비밀번호 재설정 인증번호 6~10자리",
   "channel": "test",
-  "publishedAt": "2026-10-22T02:49:28.570Z"
+  "publishedAt": "2026-10-22T05:12:07.197Z"
 }
