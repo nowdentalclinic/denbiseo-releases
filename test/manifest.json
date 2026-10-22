@@ -1,9 +1,9 @@
 {
-  "version": "0.1.9",
-  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.9/denbiseo-setup-0.1.9.exe",
-  "size": 124406023,
-  "sha512": "y+PnUdJBPLi/RURl21yFOFIeeTUbQuH5kOz5kNb66ywQBf3JLoHXvuxJDWDNrfY6OOlmckwxEiRGs12z7L9GLA==",
-  "notes": "환자용 치료계획서 단순화(A4 한 장)",
+  "version": "0.1.10",
+  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.10/denbiseo-setup-0.1.10.exe",
+  "size": 124407031,
+  "sha512": "BsXkr93QTVvIWgPtHfdPVKJK4r7mdNRtNX1uusoT7LKSyn7vlosDKShKU/uuf9r8MA5kmx0AxgvaTGOEsOI44g==",
+  "notes": "환자 설명 모으기에서 동영상 재생",
   "channel": "test",
-  "publishedAt": "2026-10-22T06:43:55.249Z"
+  "publishedAt": "2026-10-22T08:30:07.343Z"
 }
