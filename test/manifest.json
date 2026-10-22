@@ -1,9 +1,9 @@
 {
-  "version": "0.1.8",
-  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.8/denbiseo-setup-0.1.8.exe",
-  "size": 124404119,
-  "sha512": "kqbxRRVRwDXEkohVYcWi7H37dUMa2kyuSxPtUp3QOKx8eb38sFVBcNEj5CDnZhMFjLXkBPhqGBBGOQx7Y77rmQ==",
-  "notes": "환자 설명 모으기 카드 끌어서 옮기기",
+  "version": "0.1.9",
+  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.9/denbiseo-setup-0.1.9.exe",
+  "size": 124406023,
+  "sha512": "y+PnUdJBPLi/RURl21yFOFIeeTUbQuH5kOz5kNb66ywQBf3JLoHXvuxJDWDNrfY6OOlmckwxEiRGs12z7L9GLA==",
+  "notes": "환자용 치료계획서 단순화(A4 한 장)",
   "channel": "test",
-  "publishedAt": "2026-10-22T06:10:33.244Z"
+  "publishedAt": "2026-10-22T06:43:55.249Z"
 }
