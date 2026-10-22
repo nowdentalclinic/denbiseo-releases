@@ -1,0 +1,9 @@
+{
+  "version": "0.1.7",
+  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.7/denbiseo-setup-0.1.7.exe",
+  "size": 124403586,
+  "sha512": "SPHxDqV2/EwY0eiGYa+O+XXqasd0oAsnKLMOKwvMrK26x7Nl5g9kAWABfMOYXgx7//CdUlgLn8RYHu5cAECa2g==",
+  "notes": "설정 화면: 서버 인증서 불러오기·설정 파일로 저장(다른 치과 설치용)",
+  "channel": "stable",
+  "publishedAt": "2026-10-22T05:20:16.065Z"
+}
