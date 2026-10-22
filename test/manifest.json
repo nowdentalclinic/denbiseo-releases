@@ -1,9 +1,9 @@
 {
-  "version": "0.1.3",
-  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.3/denbiseo-setup-0.1.3.exe",
-  "size": 124392513,
-  "sha512": "iM3oPZe1tIQJMphV0e/ZvTg9sWG4Da2NAW5sz1B2X8ie9VVU5I1FjYHohwUAu/5t8JrdXW+OOWY4nSzOH8/S3w==",
-  "notes": "업데이트 받기 방식 고침(HTTP2 오류)",
+  "version": "0.1.4",
+  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.4/denbiseo-setup-0.1.4.exe",
+  "size": 124392798,
+  "sha512": "IweCZuS5w+KV+8Nctzhj/l+1Ui9O8iW8IYvC/o5blztgZw9hHBno62wf4tQq1HrIGVyVDVNq/mlrMHAqFbAAjQ==",
+  "notes": "창 제목줄에 버전·업데이트 상태 표시(자동 업데이트 시험)",
   "channel": "test",
-  "publishedAt": "2026-10-22T01:45:19.191Z"
+  "publishedAt": "2026-10-22T02:16:56.090Z"
 }
