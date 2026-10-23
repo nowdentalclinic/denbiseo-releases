@@ -1,9 +1,9 @@
 {
-  "version": "0.1.23",
-  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.23/denbiseo-setup-0.1.23.exe",
-  "size": 124411712,
-  "sha512": "seQQkjEbiPxY6Qfb8dkLyVYjb5vEkfw7TuC3vxxECmgFCHeicY0UYhw6iJrMZvlMQYs4fGJdym1e828mJ4h1fw==",
-  "notes": "마진 표 겹침 고침",
+  "version": "0.1.24",
+  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.24/denbiseo-setup-0.1.24.exe",
+  "size": 124411742,
+  "sha512": "5VxehPnSncH+TiUrIcjyT+zypWnPG8x5TlHBh1C//CvQyYq6YwdqudocylGmed62ZqhDBwA1YLpRdsQH9DCGBg==",
+  "notes": "수정 의뢰 '나머지는 이전과 동일' 잠금 방식, 치경부(cervical) 표기",
   "channel": "test",
-  "publishedAt": "2026-10-23T04:53:48.145Z"
+  "publishedAt": "2026-10-23T04:57:54.561Z"
 }
