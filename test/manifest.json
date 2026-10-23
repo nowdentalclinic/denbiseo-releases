@@ -1,9 +1,9 @@
 {
-  "version": "0.1.15",
-  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.15/denbiseo-setup-0.1.15.exe",
-  "size": 124409394,
-  "sha512": "Ns+EmlKg9CHrw5CmuHlxa9hF/WWbZoRkhEbHgMFSOI5ciWXm5XmtQmjE/T/+A8ckQwONQqk/q/uvky/sSn0XnQ==",
-  "notes": "기공물 관리: 메모 칸 늘어남·이름으로 환자 찾기",
+  "version": "0.1.16",
+  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.16/denbiseo-setup-0.1.16.exe",
+  "size": 124409742,
+  "sha512": "Jg8rBu+h/D2bBrFMrYPb+1cmEW8wuv3YOuAIst7AkmHlFBt0IOXfT8mtA0ZYvyrLaz7B5TlWKdN18H9i1gX5OA==",
+  "notes": "기공물 관리: 수정 메모 칸 정리, 원 의뢰서 안내 없앰",
   "channel": "test",
-  "publishedAt": "2026-10-23T04:10:35.680Z"
+  "publishedAt": "2026-10-23T04:16:04.063Z"
 }
