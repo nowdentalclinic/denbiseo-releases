@@ -1,9 +1,9 @@
 {
-  "version": "0.1.17",
-  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.17/denbiseo-setup-0.1.17.exe",
-  "size": 124411269,
-  "sha512": "/Kj+z8eWsUb+8CbvTcnDFRAYaZTvdJK08jjQLZerAgpRDVPUfLdTV0aGNLrx6zzO4M5md9m+Sk57/RnpmHXLTA==",
-  "notes": "기공의뢰서: 선택 안함·기타, 인쇄 기록, 이전 의뢰서 비교, 수정 의뢰 간단히",
+  "version": "0.1.18",
+  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.18/denbiseo-setup-0.1.18.exe",
+  "size": 124411542,
+  "sha512": "i7GBvRdhgiuQrDzClIkv46SzqqxVBmn5+dX1whvIFXAPEVM6t+Yw96ci7Tp63R5G7gT1c5D8BnYCi8c58/Xg8g==",
+  "notes": "치아별 마진에도 선택 안함·기타",
   "channel": "test",
-  "publishedAt": "2026-10-23T04:34:37.887Z"
+  "publishedAt": "2026-10-23T04:38:31.309Z"
 }
