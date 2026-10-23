@@ -1,9 +1,9 @@
 {
-  "version": "0.1.20",
-  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.20/denbiseo-setup-0.1.20.exe",
-  "size": 124411565,
-  "sha512": "ieA4fbhpe16rcfmsVICk410dMrcwt1fDq4yi0ZfiECGjAlg/ey3Friz5SgGxdDpuUZfL17LAqXYeIIyipTnQpg==",
-  "notes": "기공의뢰서 목록 표시 고침",
+  "version": "0.1.21",
+  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.21/denbiseo-setup-0.1.21.exe",
+  "size": 124411809,
+  "sha512": "H4uO4ewkJGxXpoH3B4ST/JIghJqsD05QL0WkPFDRb2ZWAW6j7LWhsSFEdofiBUln9luaG9SnLlgeX4jj85OlVA==",
+  "notes": "수정 의뢰: 나머지는 이전과 동일, 마진 기타 입력칸",
   "channel": "test",
-  "publishedAt": "2026-10-23T04:40:52.981Z"
+  "publishedAt": "2026-10-23T04:46:11.820Z"
 }
