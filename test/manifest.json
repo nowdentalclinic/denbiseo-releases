@@ -1,9 +1,9 @@
 {
-  "version": "0.1.13",
-  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.13/denbiseo-setup-0.1.13.exe",
-  "size": 124409304,
-  "sha512": "e8THI5pdyu3zlbfN2U3N4thDmnQROpJh5IZo3uTVEmrfo+NWN/grofQlfZrdMBoIxlMDMUWWVChRZGbeCVlKnA==",
-  "notes": "새 상담 모으기·모두 지우기 단추를 모은 사진 아래로",
+  "version": "0.1.14",
+  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.14/denbiseo-setup-0.1.14.exe",
+  "size": 124409239,
+  "sha512": "/cBv5CxnBmm4G5WbeLn+3MzeB7VwI1yCAoDIuvXeR+gJsApX2S9l9KPQ48sRMLE0bjh0/hz3ms8eNC1e+RdIuA==",
+  "notes": "저장한 모음 불러오기에 이름·차트번호 찾기",
   "channel": "test",
-  "publishedAt": "2026-10-23T03:35:27.674Z"
+  "publishedAt": "2026-10-23T03:37:06.948Z"
 }
