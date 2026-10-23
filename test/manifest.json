@@ -1,9 +1,9 @@
 {
-  "version": "0.1.18",
-  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.18/denbiseo-setup-0.1.18.exe",
-  "size": 124411542,
-  "sha512": "i7GBvRdhgiuQrDzClIkv46SzqqxVBmn5+dX1whvIFXAPEVM6t+Yw96ci7Tp63R5G7gT1c5D8BnYCi8c58/Xg8g==",
-  "notes": "치아별 마진에도 선택 안함·기타",
+  "version": "0.1.19",
+  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.19/denbiseo-setup-0.1.19.exe",
+  "size": 124411608,
+  "sha512": "WvS7THlhVjgZUr85fBVJT8bfx5BXv+VqV+1ZKWmbFL2sJESLHoKjEHBY5e+rUEFuNyaxjmT3PHN5Ug+/JcfG7w==",
+  "notes": "수정 의뢰: 기공소·발송일·완성 예정일 필수",
   "channel": "test",
-  "publishedAt": "2026-10-23T04:38:31.309Z"
+  "publishedAt": "2026-10-23T04:39:46.604Z"
 }
