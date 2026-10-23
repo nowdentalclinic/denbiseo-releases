@@ -1,9 +1,9 @@
 {
-  "version": "0.1.12",
-  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.12/denbiseo-setup-0.1.12.exe",
-  "size": 124409342,
-  "sha512": "lpBdgshelLVi9/PA7/ILuX2DIFhBQU3A52fkLvFP7iTVf3nAB1pdsocwluX+iYEgztNUGGUaFfwiLp+/DAUEOw==",
-  "notes": "PDF 책자 미리보기·병원 로고",
+  "version": "0.1.13",
+  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.13/denbiseo-setup-0.1.13.exe",
+  "size": 124409304,
+  "sha512": "e8THI5pdyu3zlbfN2U3N4thDmnQROpJh5IZo3uTVEmrfo+NWN/grofQlfZrdMBoIxlMDMUWWVChRZGbeCVlKnA==",
+  "notes": "새 상담 모으기·모두 지우기 단추를 모은 사진 아래로",
   "channel": "test",
-  "publishedAt": "2026-10-23T03:33:49.490Z"
+  "publishedAt": "2026-10-23T03:35:27.674Z"
 }
