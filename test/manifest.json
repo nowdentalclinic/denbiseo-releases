@@ -1,9 +1,9 @@
 {
-  "version": "0.1.19",
-  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.19/denbiseo-setup-0.1.19.exe",
-  "size": 124411608,
-  "sha512": "WvS7THlhVjgZUr85fBVJT8bfx5BXv+VqV+1ZKWmbFL2sJESLHoKjEHBY5e+rUEFuNyaxjmT3PHN5Ug+/JcfG7w==",
-  "notes": "수정 의뢰: 기공소·발송일·완성 예정일 필수",
+  "version": "0.1.20",
+  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.20/denbiseo-setup-0.1.20.exe",
+  "size": 124411565,
+  "sha512": "ieA4fbhpe16rcfmsVICk410dMrcwt1fDq4yi0ZfiECGjAlg/ey3Friz5SgGxdDpuUZfL17LAqXYeIIyipTnQpg==",
+  "notes": "기공의뢰서 목록 표시 고침",
   "channel": "test",
-  "publishedAt": "2026-10-23T04:39:46.604Z"
+  "publishedAt": "2026-10-23T04:40:52.981Z"
 }
