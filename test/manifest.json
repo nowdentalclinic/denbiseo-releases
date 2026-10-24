@@ -1,9 +1,9 @@
 {
-  "version": "0.1.24",
-  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.24/denbiseo-setup-0.1.24.exe",
-  "size": 124411742,
-  "sha512": "5VxehPnSncH+TiUrIcjyT+zypWnPG8x5TlHBh1C//CvQyYq6YwdqudocylGmed62ZqhDBwA1YLpRdsQH9DCGBg==",
-  "notes": "수정 의뢰 '나머지는 이전과 동일' 잠금 방식, 치경부(cervical) 표기",
+  "version": "0.1.25",
+  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.25/denbiseo-setup-0.1.25.exe",
+  "size": 124412521,
+  "sha512": "zhHgrEJHgXjcYWySmfeN7PkG5uCfc6C/ZmIMgEb0sCHVRxry0FO1InOjlEgSh2IOlxo/8zFvopTV/odaZ9HsVg==",
+  "notes": "보험사 치과치료확인서·서류 문안: 수가 코드 우선",
   "channel": "test",
-  "publishedAt": "2026-10-23T04:57:54.561Z"
+  "publishedAt": "2026-10-24T06:00:20.337Z"
 }
