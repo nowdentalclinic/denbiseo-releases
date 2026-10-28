@@ -1,9 +1,9 @@
 {
-  "version": "0.1.26",
-  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.26/denbiseo-setup-0.1.26.exe",
-  "size": 124425631,
-  "sha512": "bxTJcXQEMdCbU5mPTZ+n4ZMJhhk/66Zuv+l7fHa47LppzgbK+B7ULwz8EwK/2go3Pzse0w7X5Dbc5NzppqLrJA==",
-  "notes": "진료실: 근태 탭(오프·연차 신청, 연차 규정, 재계약 표시), 기공의뢰서 차트번호 크게, 서류 문안 오류 수정, 수가 코드 기준 / 상담실: 대기실 TV 개선",
+  "version": "0.1.27",
+  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.27/denbiseo-setup-0.1.27.exe",
+  "size": 124427119,
+  "sha512": "pc1ndCH611LU45+Tj2XSLQAf8f9l/Vzw4x/3FlEztgcG2yGsTLK0pZw1OmkCu6798yy5AxGreyMjkHm/Q7tNug==",
+  "notes": "상담실: 멀티플 임플란트 케이스(검토 대기·공개, 치식·치료 종류 분류), 환자 설명 모으기 오늘 접수 환자 / 대기실 TV 개선",
   "channel": "test",
-  "publishedAt": "2026-10-28T00:56:34.160Z"
+  "publishedAt": "2026-10-28T07:32:10.140Z"
 }
