@@ -1,9 +1,9 @@
 {
-  "version": "0.1.27",
-  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.27/denbiseo-setup-0.1.27.exe",
-  "size": 124427119,
-  "sha512": "pc1ndCH611LU45+Tj2XSLQAf8f9l/Vzw4x/3FlEztgcG2yGsTLK0pZw1OmkCu6798yy5AxGreyMjkHm/Q7tNug==",
-  "notes": "상담실: 멀티플 임플란트 케이스(검토 대기·공개, 치식·치료 종류 분류), 환자 설명 모으기 오늘 접수 환자 / 대기실 TV 개선",
+  "version": "0.1.28",
+  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.28/denbiseo-setup-0.1.28.exe",
+  "size": 124427358,
+  "sha512": "3R7rtne+bTkxs81LStupNRM6uUaZSZNGqril5CIvFeRj+rAFQSzbH6x4zWNQhOkAss2yvQtx7qatA/DXVHvpDw==",
+  "notes": "상담실: 설명 자료 보여주기 화면에서 [고치기]",
   "channel": "test",
-  "publishedAt": "2026-10-28T07:32:10.140Z"
+  "publishedAt": "2026-10-28T11:15:50.428Z"
 }
