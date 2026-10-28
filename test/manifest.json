@@ -1,9 +1,9 @@
 {
-  "version": "0.1.25",
-  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.25/denbiseo-setup-0.1.25.exe",
-  "size": 124412521,
-  "sha512": "zhHgrEJHgXjcYWySmfeN7PkG5uCfc6C/ZmIMgEb0sCHVRxry0FO1InOjlEgSh2IOlxo/8zFvopTV/odaZ9HsVg==",
-  "notes": "보험사 치과치료확인서·서류 문안: 수가 코드 우선",
+  "version": "0.1.26",
+  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.26/denbiseo-setup-0.1.26.exe",
+  "size": 124425631,
+  "sha512": "bxTJcXQEMdCbU5mPTZ+n4ZMJhhk/66Zuv+l7fHa47LppzgbK+B7ULwz8EwK/2go3Pzse0w7X5Dbc5NzppqLrJA==",
+  "notes": "진료실: 근태 탭(오프·연차 신청, 연차 규정, 재계약 표시), 기공의뢰서 차트번호 크게, 서류 문안 오류 수정, 수가 코드 기준 / 상담실: 대기실 TV 개선",
   "channel": "test",
-  "publishedAt": "2026-10-24T06:00:20.337Z"
+  "publishedAt": "2026-10-28T00:56:34.160Z"
 }
