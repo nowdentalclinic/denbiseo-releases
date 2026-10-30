@@ -1,9 +1,9 @@
 {
-  "version": "0.1.29",
-  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.29/denbiseo-setup-0.1.29.exe",
-  "size": 124434053,
-  "sha512": "NtQRTfkCDeMk36qB+3Kro/WGgnCbLp6BwBqDb/qau2ynYB1otYQNpLh8EuEnVm80SjPmPW2VXTKQjliXBQrzBA==",
-  "notes": "대기실 덴비서 추가(TV·층별 음악·영상 관리), 바탕화면 「덴비서」 아이콘 하나로",
+  "version": "0.1.30",
+  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.30/denbiseo-setup-0.1.30.exe",
+  "size": 124434453,
+  "sha512": "DRfpwX3rlz8dw5a/myPz6YtdByuiigxkiDeYVJfSfLml425ctj8DIeiwmtan1905SdQwOFu0TjGF8gXEgkZzNg==",
+  "notes": "대기실 덴비서: '이 PC의 용도', 관리 화면 재생 주소 누르면 작은 창",
   "channel": "test",
-  "publishedAt": "2026-10-29T09:25:19.297Z"
+  "publishedAt": "2026-10-30T01:15:25.121Z"
 }
