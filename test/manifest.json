@@ -1,9 +1,9 @@
 {
-  "version": "0.1.30",
-  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.30/denbiseo-setup-0.1.30.exe",
-  "size": 124434453,
-  "sha512": "DRfpwX3rlz8dw5a/myPz6YtdByuiigxkiDeYVJfSfLml425ctj8DIeiwmtan1905SdQwOFu0TjGF8gXEgkZzNg==",
-  "notes": "대기실 덴비서: '이 PC의 용도', 관리 화면 재생 주소 누르면 작은 창",
+  "version": "0.1.31",
+  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.31/denbiseo-setup-0.1.31.exe",
+  "size": 124440824,
+  "sha512": "3Jg/TI8Jqbci+hOBVq/Sd1Il2l+gNsAZPCDVpDd4GqqGP0RXlRvfZb4vI2bk7criPGTWuPYnN9aMmPbdQRBaMw==",
+  "notes": "한 창 덴비서(왼쪽 메뉴·로그인 한 번·할 일 알림), 상담실→진료실 바로 가기, 기공의뢰서 여러 보철, 서류 문안 이름 찾기",
   "channel": "test",
-  "publishedAt": "2026-10-30T01:15:25.121Z"
+  "publishedAt": "2026-10-30T08:17:10.604Z"
 }
