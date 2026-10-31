@@ -1,9 +1,9 @@
 {
-  "version": "0.1.33",
-  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.33/denbiseo-setup-0.1.33.exe",
-  "size": 124444167,
-  "sha512": "C48ofROOSpMr/Pf12PQ0jDRR2EYWxT/KmdMzIuYmDgnahjFCKCPn9lr48MEhBvYYAlznzNJcc8likBnTS8EYcQ==",
-  "notes": "서류 문안: [덴트웹에서 불러오기] 생년월일·전화",
+  "version": "0.1.34",
+  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.34/denbiseo-setup-0.1.34.exe",
+  "size": 124445335,
+  "sha512": "+3ebUmg9Z0KGqh0nXSBOP3Wq68jjPhi5LSZ6VE4Z39jAZMp7cpj51mXXHaslqX0TvaWWOy2M3iCUcCLtRd3Auw==",
+  "notes": "서류 문안: f/s·f/set 크라운 장착 인식(t/s는 장착 아님)",
   "channel": "test",
-  "publishedAt": "2026-10-31T06:03:32.792Z"
+  "publishedAt": "2026-10-31T06:41:55.801Z"
 }
