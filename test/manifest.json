@@ -1,9 +1,9 @@
 {
-  "version": "0.1.32",
-  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.32/denbiseo-setup-0.1.32.exe",
-  "size": 124443958,
-  "sha512": "v28+HJCMtQYGFnFUfjuGdka7TSThEJWCgTKVSoHLe40RiFsMCKDnE9oN4+fmoWmavLOZNsjJqsnOU+Dbc97FAA==",
-  "notes": "개선 메모 통합판(메뉴 맨 아래), 서류 문안: 직접 써야 할 칸 표시·상병코드 고르기·치식 팝업",
+  "version": "0.1.33",
+  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.33/denbiseo-setup-0.1.33.exe",
+  "size": 124444167,
+  "sha512": "C48ofROOSpMr/Pf12PQ0jDRR2EYWxT/KmdMzIuYmDgnahjFCKCPn9lr48MEhBvYYAlznzNJcc8likBnTS8EYcQ==",
+  "notes": "서류 문안: [덴트웹에서 불러오기] 생년월일·전화",
   "channel": "test",
-  "publishedAt": "2026-10-31T01:21:43.258Z"
+  "publishedAt": "2026-10-31T06:03:32.792Z"
 }
