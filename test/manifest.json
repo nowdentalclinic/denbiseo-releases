@@ -1,9 +1,9 @@
 {
-  "version": "0.1.37",
-  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.37/denbiseo-setup-0.1.37.exe",
-  "size": 124456844,
-  "sha512": "LK4sVRhRADOeGm5fw0+uQzW3ZaN84+ZyBct1TePZUTHrEjpvazMEyOyZdfTxC19XdOkrB/zIJqkOoRI/aa7CLQ==",
-  "notes": "해피콜 문자(데스크)·오늘 예약 미리 보기(진료) 탭 추가, 과거 진료 이력 GI B면 치경부 확인 표시",
+  "version": "0.1.38",
+  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.38/denbiseo-setup-0.1.38.exe",
+  "size": 124458241,
+  "sha512": "agHMsspxsRNk7lDxuhmQYmQcAvjWB0w9EFNHkUpx2OZC0tw802beNTu3P+UajYjBHFZ2OvXx7N+px+QdmIhxVg==",
+  "notes": "탭 제목 띠 통일(제목 자리·글씨 크기 같게, 사용자 가이드 단추)",
   "channel": "test",
-  "publishedAt": "2026-11-04T06:34:44.768Z"
+  "publishedAt": "2026-11-04T08:44:21.444Z"
 }
