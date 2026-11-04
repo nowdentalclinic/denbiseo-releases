@@ -1,9 +1,9 @@
 {
-  "version": "0.1.36",
-  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.36/denbiseo-setup-0.1.36.exe",
-  "size": 124445497,
-  "sha512": "1Vqi5SWh01HXWAICCEj2OLVyO9UX+QA08qF+Fr1zAcJBC5lr0n6Y7yMqoZRdRWUrwh3tXqEwYw5PFlouays+VQ==",
-  "notes": "진료실 화면 색·글꼴을 상담 화면과 통일, 한 창 안에서 진료실 제목 숨김",
+  "version": "0.1.37",
+  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.37/denbiseo-setup-0.1.37.exe",
+  "size": 124456844,
+  "sha512": "LK4sVRhRADOeGm5fw0+uQzW3ZaN84+ZyBct1TePZUTHrEjpvazMEyOyZdfTxC19XdOkrB/zIJqkOoRI/aa7CLQ==",
+  "notes": "해피콜 문자(데스크)·오늘 예약 미리 보기(진료) 탭 추가, 과거 진료 이력 GI B면 치경부 확인 표시",
   "channel": "test",
-  "publishedAt": "2026-11-02T13:34:09.742Z"
+  "publishedAt": "2026-11-04T06:34:44.768Z"
 }
