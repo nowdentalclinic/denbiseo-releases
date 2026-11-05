@@ -1,9 +1,9 @@
 {
-  "version": "0.1.41",
-  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.41/denbiseo-setup-0.1.41.exe",
-  "size": 124481399,
-  "sha512": "/M2c0N0UvgBaNaZPgKpP4lKiNiGk8ZxB6jTkP4eFYKyEPKu94w+P5CRefaOsSCs3dEdq/YOxi2hijCFCvBBiyQ==",
-  "notes": "덴비서 켜면 작은 창도 같이, 로그인·로그아웃 같이",
+  "version": "0.1.42",
+  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.42/denbiseo-setup-0.1.42.exe",
+  "size": 124482911,
+  "sha512": "jXkpySUIgIUiu/g39mrXo+6tLR1ux0juD0qqjZHvPm4tIeTfnULwt06J9W/aZ9tiwRiSZNZDBQFLjNV8QPCizg==",
+  "notes": "작은 창 로그인 칸 없앰(덴비서 로그인하면 켜지고 로그아웃·끄면 꺼짐), 설정 화면 [연결 확인], 입력 점검 5·6(기존 충전물·보철물 제거)",
   "channel": "test",
-  "publishedAt": "2026-11-05T02:54:15.831Z"
+  "publishedAt": "2026-11-05T04:14:13.695Z"
 }
