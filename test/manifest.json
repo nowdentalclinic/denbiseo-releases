@@ -1,9 +1,9 @@
 {
-  "version": "0.1.40",
-  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.40/denbiseo-setup-0.1.40.exe",
-  "size": 124480969,
-  "sha512": "AUSrRRhSgzamFEeTBEYYcxhs6lcL1TyWST8mObLnUNfpCx3OPp5k5Q43DSjzhM5cflvMfNKUhXg+51MPhyQV+Q==",
-  "notes": "작은 창 시험판, 입력 점검 규칙, 설정 탭·치료 약어, 남은 치료 줄 목록",
+  "version": "0.1.41",
+  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.41/denbiseo-setup-0.1.41.exe",
+  "size": 124481399,
+  "sha512": "/M2c0N0UvgBaNaZPgKpP4lKiNiGk8ZxB6jTkP4eFYKyEPKu94w+P5CRefaOsSCs3dEdq/YOxi2hijCFCvBBiyQ==",
+  "notes": "덴비서 켜면 작은 창도 같이, 로그인·로그아웃 같이",
   "channel": "test",
-  "publishedAt": "2026-11-05T01:12:44.412Z"
+  "publishedAt": "2026-11-05T02:54:15.831Z"
 }
