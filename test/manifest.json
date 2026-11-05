@@ -1,9 +1,9 @@
 {
-  "version": "0.1.39",
-  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.39/denbiseo-setup-0.1.39.exe",
-  "size": 124459657,
-  "sha512": "onl/NCBqxyh/vy1vNdU2+Yhsywq5pwlychd6byG5d7LTttoqi+3DIRorpJjo7AaPoH8VMjarHqSKV7MQY5pqJQ==",
-  "notes": "예약 미리 보기 카드판·메뉴 맨 위, 상담 목록·등록 한 메뉴",
+  "version": "0.1.40",
+  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.40/denbiseo-setup-0.1.40.exe",
+  "size": 124480969,
+  "sha512": "AUSrRRhSgzamFEeTBEYYcxhs6lcL1TyWST8mObLnUNfpCx3OPp5k5Q43DSjzhM5cflvMfNKUhXg+51MPhyQV+Q==",
+  "notes": "작은 창 시험판, 입력 점검 규칙, 설정 탭·치료 약어, 남은 치료 줄 목록",
   "channel": "test",
-  "publishedAt": "2026-11-04T10:33:12.362Z"
+  "publishedAt": "2026-11-05T01:12:44.412Z"
 }
