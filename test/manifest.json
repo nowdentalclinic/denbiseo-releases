@@ -1,9 +1,9 @@
 {
-  "version": "0.1.43",
-  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.43/denbiseo-setup-0.1.43.exe",
-  "size": 124483337,
-  "sha512": "SnfkIXzdGvBwSpmA6TOwOI0BcyT8HUOCwwomMGlXOiTWbnzs19kucZDtHlFZOb30n403Wb+cnhMB4JwtZDH9jg==",
-  "notes": "진료실 덴트웹 자료 안 오는 원인 안내(연결 확인·접수목록)",
+  "version": "0.1.44",
+  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.44/denbiseo-setup-0.1.44.exe",
+  "size": 124483340,
+  "sha512": "RXo7ACz8ZZt08AZrBt6dC5GhlL4QCgbXkTWVLa1ttkfkSGex7oK15rH4g7sd0deUek8A7bWy0YfYenTXaSYtWA==",
+  "notes": "작은 창 로그인 고침: 덴비서에 로그인한 뒤 언제 열어도 작은 창이 같이 로그인",
   "channel": "test",
-  "publishedAt": "2026-11-05T05:42:59.570Z"
+  "publishedAt": "2026-11-06T01:08:52.413Z"
 }
