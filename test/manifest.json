@@ -1,9 +1,9 @@
 {
-  "version": "0.1.45",
-  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.45/denbiseo-setup-0.1.45.exe",
-  "size": 124488144,
-  "sha512": "IYpYo6K/AnRzPUsSZ5zZxbgYBn7oFzJ9JRCn5ZaJMtwRCR4mee27eIwsCSJEjZoB74RqrkrwxOT8e+BUNiu6qQ==",
-  "notes": "남은 치료(치료순서): 회차 바로 고르기·경고 고치기 단추·여러 개 옮기기·되돌리기·가로 보기",
+  "version": "0.1.46",
+  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.46/denbiseo-setup-0.1.46.exe",
+  "size": 124489814,
+  "sha512": "pUyLNk/hqeQmWlwE2uektkje0q29Fj4BljpTTGWR+bfCpRiCy8QXUuzNkOQv8X/QNN0H7dD/ctaRIB6sYxCQmA==",
+  "notes": "작은 창 보이기 단추, 기공의뢰서 픽스쳐 종류(덴트웹 식립 기록·직경으로 미리 고르기)·동명이인 알파벳",
   "channel": "test",
-  "publishedAt": "2026-11-06T05:07:04.006Z"
+  "publishedAt": "2026-11-07T00:29:24.325Z"
 }
