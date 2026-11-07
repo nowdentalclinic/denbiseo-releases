@@ -1,9 +1,9 @@
 {
-  "version": "0.1.46",
-  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.46/denbiseo-setup-0.1.46.exe",
-  "size": 124489814,
-  "sha512": "pUyLNk/hqeQmWlwE2uektkje0q29Fj4BljpTTGWR+bfCpRiCy8QXUuzNkOQv8X/QNN0H7dD/ctaRIB6sYxCQmA==",
-  "notes": "작은 창 보이기 단추, 기공의뢰서 픽스쳐 종류(덴트웹 식립 기록·직경으로 미리 고르기)·동명이인 알파벳",
+  "version": "0.1.47",
+  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.47/denbiseo-setup-0.1.47.exe",
+  "size": 124490480,
+  "sha512": "/MUoCfh6LocXURf4FxIbhuGlN4ndDHxHs4EnyPOqdlIAItpQeuxfM0N5+/vKLL7eHw7Y+Hs3tnq1WSu4uTQwDg==",
+  "notes": "업데이트 뒤 사라진 바탕화면·시작 메뉴 바로가기를 처음 켤 때 다시 만듦",
   "channel": "test",
-  "publishedAt": "2026-11-07T00:29:24.325Z"
+  "publishedAt": "2026-11-07T01:17:58.995Z"
 }
