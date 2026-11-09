@@ -1,9 +1,9 @@
 {
-  "version": "0.1.47",
-  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.47/denbiseo-setup-0.1.47.exe",
-  "size": 124490480,
-  "sha512": "/MUoCfh6LocXURf4FxIbhuGlN4ndDHxHs4EnyPOqdlIAItpQeuxfM0N5+/vKLL7eHw7Y+Hs3tnq1WSu4uTQwDg==",
-  "notes": "업데이트 뒤 사라진 바탕화면·시작 메뉴 바로가기를 처음 켤 때 다시 만듦",
+  "version": "0.1.48",
+  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.48/denbiseo-setup-0.1.48.exe",
+  "size": 124489797,
+  "sha512": "i8m6RkVP8X/1DmJY7i8ypyQOPBLdvKygl7YCWYVrHVL7JsoAw2oMRl/PA6oDm00J1TTMpImW2/hK4cUMXbo37g==",
+  "notes": "작은 창: 입력한 청구 점검 늘 표시(이상 없음), 제목 정리, 후속 치료 뺌, 진료 메모는 녹음 메모가 있을 때만 맨 아래·덴트웹 복사",
   "channel": "test",
-  "publishedAt": "2026-11-07T01:17:58.995Z"
+  "publishedAt": "2026-11-09T08:14:48.850Z"
 }
