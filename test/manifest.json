@@ -1,9 +1,9 @@
 {
-  "version": "0.1.51",
-  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.51/denbiseo-setup-0.1.51.exe",
-  "size": 124495851,
-  "sha512": "n7GgREQVxS+gM+X5kMcz8i/GF8a2plu5/YhJC/g8GIVePdqII97WJITB+N0tXdTh0M2V7AGmExDARM0Kz9LVVw==",
-  "notes": "수가표: 저장본 불러오기 오류 고침, [고치기] PIN을 화면 안 입력칸으로(PC 프로그램에서 안 되던 문제)",
+  "version": "0.1.52",
+  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.52/denbiseo-setup-0.1.52.exe",
+  "size": 124495895,
+  "sha512": "2UKm1KydyO/IdxHM7jMKncdEDp2w/ntcRgvnO7gChUnI70rKtZEcXy7eWPsDj5a4086JlWYa39/+jPERL1zR9w==",
+  "notes": "피드백 메모: 남의 메모 지우기 PIN을 화면 안 입력칸으로(PC 프로그램에서 안 되던 문제)",
   "channel": "test",
-  "publishedAt": "2026-11-11T11:21:27.370Z"
+  "publishedAt": "2026-11-11T11:25:39.558Z"
 }
