@@ -1,9 +1,9 @@
 {
-  "version": "0.1.50",
-  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.50/denbiseo-setup-0.1.50.exe",
-  "size": 124495562,
-  "sha512": "xlzX+Q0OnFcfos2lN8fQhzStSm8aQcFF6ZdU3x/j9vsIhq9jEsNh74bHvQkwvjTukW5mGHgVoq51hrCrLSIT+Q==",
-  "notes": "상담실 수가표 탭(비용·항목 고치기), 예약 미리 보기 imp=인상·abut ck=어버트먼트 시적·바이트",
+  "version": "0.1.51",
+  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.51/denbiseo-setup-0.1.51.exe",
+  "size": 124495851,
+  "sha512": "n7GgREQVxS+gM+X5kMcz8i/GF8a2plu5/YhJC/g8GIVePdqII97WJITB+N0tXdTh0M2V7AGmExDARM0Kz9LVVw==",
+  "notes": "수가표: 저장본 불러오기 오류 고침, [고치기] PIN을 화면 안 입력칸으로(PC 프로그램에서 안 되던 문제)",
   "channel": "test",
-  "publishedAt": "2026-11-11T03:24:34.222Z"
+  "publishedAt": "2026-11-11T11:21:27.370Z"
 }
