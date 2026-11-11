@@ -1,9 +1,9 @@
 {
-  "version": "0.1.49",
-  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.49/denbiseo-setup-0.1.49.exe",
-  "size": 124491094,
-  "sha512": "Tw3WXcccsYlmxhaUL6e4Px95ynXrI7aDKcrKA5aOHPhtdPZJD5IgVqTG6lsTnHuJ4bIVqjahIplMdzmB73TZmA==",
-  "notes": "작은 창 ①·② 옆 [기준 ↗](보험청구 점검 기준 목록), 걸린 항목에 근거 고시",
+  "version": "0.1.50",
+  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.50/denbiseo-setup-0.1.50.exe",
+  "size": 124495562,
+  "sha512": "xlzX+Q0OnFcfos2lN8fQhzStSm8aQcFF6ZdU3x/j9vsIhq9jEsNh74bHvQkwvjTukW5mGHgVoq51hrCrLSIT+Q==",
+  "notes": "상담실 수가표 탭(비용·항목 고치기), 예약 미리 보기 imp=인상·abut ck=어버트먼트 시적·바이트",
   "channel": "test",
-  "publishedAt": "2026-11-10T08:03:45.783Z"
+  "publishedAt": "2026-11-11T03:24:34.222Z"
 }
