@@ -1,9 +1,9 @@
 {
-  "version": "0.1.52",
-  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.52/denbiseo-setup-0.1.52.exe",
-  "size": 124495895,
-  "sha512": "2UKm1KydyO/IdxHM7jMKncdEDp2w/ntcRgvnO7gChUnI70rKtZEcXy7eWPsDj5a4086JlWYa39/+jPERL1zR9w==",
-  "notes": "피드백 메모: 남의 메모 지우기 PIN을 화면 안 입력칸으로(PC 프로그램에서 안 되던 문제)",
+  "version": "0.1.53",
+  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.53/denbiseo-setup-0.1.53.exe",
+  "size": 124504600,
+  "sha512": "JQU/XB7/Vmt+QOFxhJrJv1B1koy6N1UTijDi8xMf5v7J3fKvuc0TwLNctnugbCpG1z5Slnq0HYUjvcm6efI8Qg==",
+  "notes": "진료실: 환자 사진 정리 탭(촬영 사진을 접수 시각으로 환자별 폴더에 복사)",
   "channel": "test",
-  "publishedAt": "2026-11-11T11:25:39.558Z"
+  "publishedAt": "2026-11-14T07:53:30.426Z"
 }
