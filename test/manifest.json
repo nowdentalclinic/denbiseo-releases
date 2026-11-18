@@ -1,9 +1,9 @@
 {
-  "version": "0.1.56",
-  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.56/denbiseo-setup-0.1.56.exe",
-  "size": 124508317,
-  "sha512": "U70PKxQAe3QvjuyGogWPPDupc3RAKsJHHSleNfXavrDWF+TFrmYcnlMthzyEk9fiOVfFURDO6d+/j2ftRWQvbw==",
-  "notes": "x",
+  "version": "0.1.57",
+  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.57/denbiseo-setup-0.1.57.exe",
+  "size": 124508364,
+  "sha512": "q65LY407Hd/kNFHvQtE0mCQsZ/eKSz2qFBBnMeHGOebKVpGGpUXA2LgqHd99L63FZFUD79F9woNNVlOqjFRCWQ==",
+  "notes": "오늘 준비판(기공물 확인·고위험군·수술 환자 특이사항), 기공의뢰서: 재제작 기공소 다름 알림·오늘 치료한 치아 먼저",
   "channel": "test",
-  "publishedAt": "2026-11-18T12:00:51.582Z"
+  "publishedAt": "2026-11-18T12:02:19.713Z"
 }
