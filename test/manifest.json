@@ -1,9 +1,9 @@
 {
-  "version": "0.1.54",
-  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.54/denbiseo-setup-0.1.54.exe",
-  "size": 124504758,
-  "sha512": "zSp0jjCkw04XiDkHuD6NtXh3ndKlDx5hyxs9mwclbbZQzOAnPI9M6biDrAPRAsjJUsAyPFOqmQ3+2QJhSsVbgA==",
-  "notes": "환자 설명 모으기: 사진 크게 보기에서 작은 사진도 화면 가득",
+  "version": "0.1.56",
+  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.56/denbiseo-setup-0.1.56.exe",
+  "size": 124508317,
+  "sha512": "U70PKxQAe3QvjuyGogWPPDupc3RAKsJHHSleNfXavrDWF+TFrmYcnlMthzyEk9fiOVfFURDO6d+/j2ftRWQvbw==",
+  "notes": "x",
   "channel": "test",
-  "publishedAt": "2026-11-18T08:04:43.742Z"
+  "publishedAt": "2026-11-18T12:00:51.582Z"
 }
