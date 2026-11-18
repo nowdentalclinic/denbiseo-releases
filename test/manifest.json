@@ -1,9 +1,9 @@
 {
-  "version": "0.1.53",
-  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.53/denbiseo-setup-0.1.53.exe",
-  "size": 124504600,
-  "sha512": "JQU/XB7/Vmt+QOFxhJrJv1B1koy6N1UTijDi8xMf5v7J3fKvuc0TwLNctnugbCpG1z5Slnq0HYUjvcm6efI8Qg==",
-  "notes": "진료실: 환자 사진 정리 탭(촬영 사진을 접수 시각으로 환자별 폴더에 복사)",
+  "version": "0.1.54",
+  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.54/denbiseo-setup-0.1.54.exe",
+  "size": 124504758,
+  "sha512": "zSp0jjCkw04XiDkHuD6NtXh3ndKlDx5hyxs9mwclbbZQzOAnPI9M6biDrAPRAsjJUsAyPFOqmQ3+2QJhSsVbgA==",
+  "notes": "환자 설명 모으기: 사진 크게 보기에서 작은 사진도 화면 가득",
   "channel": "test",
-  "publishedAt": "2026-11-14T07:53:30.426Z"
+  "publishedAt": "2026-11-18T08:04:43.742Z"
 }
