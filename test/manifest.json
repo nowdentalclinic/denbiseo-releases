@@ -1,9 +1,9 @@
 {
-  "version": "0.1.58",
-  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.58/denbiseo-setup-0.1.58.exe",
-  "size": 124512992,
-  "sha512": "VHIBGU61elHN5paei2pIaG+RADDkmAhWAmcM9fkV0rsusncTX7qnwObgj7Rjr03HEUKC41PJh2i8lZbYmZF/9w==",
-  "notes": "기공의뢰서 맨 위에 우리 치과 이름·전화, 켤 때 받아 둔 업데이트 설치",
+  "version": "0.1.59",
+  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.59/denbiseo-setup-0.1.59.exe",
+  "size": 124513228,
+  "sha512": "WrapiAsUNSaeH1THKOFB91jOHPskWc1o+AnOUoAOhlFFsjukC1p2O2F3VQ0sNqDgiHB+yKD5mRD7dUZ2nr1Qdw==",
+  "notes": "수가표에 모두닥 할인몰가",
   "channel": "test",
-  "publishedAt": "2026-11-19T12:33:31.083Z"
+  "publishedAt": "2026-11-19T13:38:52.386Z"
 }
