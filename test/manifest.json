@@ -1,9 +1,9 @@
 {
-  "version": "0.1.60",
-  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.60/denbiseo-setup-0.1.60.exe",
-  "size": 124518943,
-  "sha512": "9b5lEx1VwjOZgLpdZATIovEFQmh+r/T+MQgVeDDqTiU4K6tSKy9nppRFJaTAboDvvnDNHZB81zWeoFM2n+jrmg==",
-  "notes": "진료실: 치료계획 입력칸(과거 진료 이력 아래) · 상담실: 리콜 [연락함] 단순화, 수가표 모두닥 3가격",
+  "version": "0.1.61",
+  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.61/denbiseo-setup-0.1.61.exe",
+  "size": 124519403,
+  "sha512": "S580zZtgt9fdgorPuwo7K2SrX6jrXx/DkVJ+gyXQh9kVqV2rGuvt49GKWF7eXt66UsYQ9CUP1GSaLJ4OKA3POQ==",
+  "notes": "오늘 준비판: 치료 종류 짐작 보완(임플란트 나사 체크·abut cr set·s/o 발사), 기공물 확인은 장착·시적·틀니 예약만",
   "channel": "test",
-  "publishedAt": "2026-11-23T08:55:39.763Z"
+  "publishedAt": "2026-11-23T09:03:18.888Z"
 }
