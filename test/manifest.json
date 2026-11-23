@@ -1,9 +1,9 @@
 {
-  "version": "0.1.59",
-  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.59/denbiseo-setup-0.1.59.exe",
-  "size": 124513228,
-  "sha512": "WrapiAsUNSaeH1THKOFB91jOHPskWc1o+AnOUoAOhlFFsjukC1p2O2F3VQ0sNqDgiHB+yKD5mRD7dUZ2nr1Qdw==",
-  "notes": "수가표에 모두닥 할인몰가",
+  "version": "0.1.60",
+  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.60/denbiseo-setup-0.1.60.exe",
+  "size": 124518943,
+  "sha512": "9b5lEx1VwjOZgLpdZATIovEFQmh+r/T+MQgVeDDqTiU4K6tSKy9nppRFJaTAboDvvnDNHZB81zWeoFM2n+jrmg==",
+  "notes": "진료실: 치료계획 입력칸(과거 진료 이력 아래) · 상담실: 리콜 [연락함] 단순화, 수가표 모두닥 3가격",
   "channel": "test",
-  "publishedAt": "2026-11-19T13:38:52.386Z"
+  "publishedAt": "2026-11-23T08:55:39.763Z"
 }
