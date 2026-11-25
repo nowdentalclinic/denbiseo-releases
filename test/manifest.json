@@ -1,9 +1,9 @@
 {
-  "version": "0.1.61",
-  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.61/denbiseo-setup-0.1.61.exe",
-  "size": 124519403,
-  "sha512": "S580zZtgt9fdgorPuwo7K2SrX6jrXx/DkVJ+gyXQh9kVqV2rGuvt49GKWF7eXt66UsYQ9CUP1GSaLJ4OKA3POQ==",
-  "notes": "오늘 준비판: 치료 종류 짐작 보완(임플란트 나사 체크·abut cr set·s/o 발사), 기공물 확인은 장착·시적·틀니 예약만",
+  "version": "0.1.62",
+  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.62/denbiseo-setup-0.1.62.exe",
+  "size": 124520752,
+  "sha512": "M41mJmuBgEP9h5FCwfvv1zXMPPFCCyiypLGGLdAYB+wlitW0LjgXVfG8ZmW3He5zK4H2TtuhfjcvgzEmeFvyrA==",
+  "notes": "오늘 준비판: 크라운·임시치아 탈락 예약은 '탈락·다시 붙이기'로 짐작",
   "channel": "test",
-  "publishedAt": "2026-11-23T09:03:18.888Z"
+  "publishedAt": "2026-11-25T01:08:19.779Z"
 }
