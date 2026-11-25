@@ -1,9 +1,9 @@
 {
-  "version": "0.1.62",
-  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.62/denbiseo-setup-0.1.62.exe",
-  "size": 124520752,
-  "sha512": "M41mJmuBgEP9h5FCwfvv1zXMPPFCCyiypLGGLdAYB+wlitW0LjgXVfG8ZmW3He5zK4H2TtuhfjcvgzEmeFvyrA==",
-  "notes": "오늘 준비판: 크라운·임시치아 탈락 예약은 '탈락·다시 붙이기'로 짐작",
+  "version": "0.1.63",
+  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.63/denbiseo-setup-0.1.63.exe",
+  "size": 124521256,
+  "sha512": "pQz6R1QrO1voXL1bMrEDlN5wuEDufsUtwXKU8ScXUnF2rglb028mM67MaRZQYkUAbyAe1NWIqdp3SUYdQVJp+g==",
+  "notes": "수가표 모두닥 가격 다시 맞춤·보증 무상 1년 / 업무 매뉴얼 업무분담 묶음·매주·매월·6개월 기간 체크(진료실·데스크 정기 업무)",
   "channel": "test",
-  "publishedAt": "2026-11-25T01:08:19.779Z"
+  "publishedAt": "2026-11-25T04:31:06.116Z"
 }
