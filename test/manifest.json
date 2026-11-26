@@ -1,9 +1,9 @@
 {
-  "version": "0.1.65",
-  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.65/denbiseo-setup-0.1.65.exe",
-  "size": 124536028,
-  "sha512": "qrqCCvCqp7dtGfA4ZugNmWfA4LVZPTveUxTh5zaeJuPfg1ojqlWBGiC3nGp+lBgMn1SrJjBeJiGBmyGJ7JZd7g==",
-  "notes": "업무 매뉴얼 업무분담·정기 업무, 계약조건(근무·급여·퇴직금·연차), 동의서·영어판, 경영 통계 등 그동안 고친 것 반영",
+  "version": "0.1.66",
+  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.66/denbiseo-setup-0.1.66.exe",
+  "size": 124834560,
+  "sha512": "o4F5VGNnn1GVS1difAIC5HxyCEOXCGzhgUuSUyfJ0DfIdUoeOiKD+PYpY20YkmE7vqtjILv3DCK4MP83Sd/I9Q==",
+  "notes": "보험사 확인서: ABL생명 양식 추가, 진단일 = 같은 상병 처음 기록된 날, 치조골이식(수술기록 체크)",
   "channel": "test",
-  "publishedAt": "2026-11-26T10:01:56.950Z"
+  "publishedAt": "2026-11-26T10:19:58.550Z"
 }
