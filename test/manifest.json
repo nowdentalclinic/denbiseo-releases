@@ -1,9 +1,9 @@
 {
-  "version": "0.1.64",
-  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.64/denbiseo-setup-0.1.64.exe",
-  "size": 124536125,
-  "sha512": "38nUDRI4AJY6pmBUAcNgWB72nxgaIkKQYCpqDykp5YLbPhRwUy1hzMZcTLkH7jgkzU8gkhz9oDs7iUEOe7WzpA==",
-  "notes": "보험사 확인서: 상병코드 앞 세 자리·설명, 치조골이식(수술기록), 임플란트 장착일, 라이나 체크 위치 / 기공물 성별·나이 / 사진 저장 오류 고침",
+  "version": "0.1.65",
+  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.65/denbiseo-setup-0.1.65.exe",
+  "size": 124536028,
+  "sha512": "qrqCCvCqp7dtGfA4ZugNmWfA4LVZPTveUxTh5zaeJuPfg1ojqlWBGiC3nGp+lBgMn1SrJjBeJiGBmyGJ7JZd7g==",
+  "notes": "업무 매뉴얼 업무분담·정기 업무, 계약조건(근무·급여·퇴직금·연차), 동의서·영어판, 경영 통계 등 그동안 고친 것 반영",
   "channel": "test",
-  "publishedAt": "2026-11-26T09:33:47.235Z"
+  "publishedAt": "2026-11-26T10:01:56.950Z"
 }
