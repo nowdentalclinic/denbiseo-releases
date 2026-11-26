@@ -1,9 +1,9 @@
 {
-  "version": "0.1.63",
-  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.63/denbiseo-setup-0.1.63.exe",
-  "size": 124521256,
-  "sha512": "pQz6R1QrO1voXL1bMrEDlN5wuEDufsUtwXKU8ScXUnF2rglb028mM67MaRZQYkUAbyAe1NWIqdp3SUYdQVJp+g==",
-  "notes": "수가표 모두닥 가격 다시 맞춤·보증 무상 1년 / 업무 매뉴얼 업무분담 묶음·매주·매월·6개월 기간 체크(진료실·데스크 정기 업무)",
+  "version": "0.1.64",
+  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.64/denbiseo-setup-0.1.64.exe",
+  "size": 124536125,
+  "sha512": "38nUDRI4AJY6pmBUAcNgWB72nxgaIkKQYCpqDykp5YLbPhRwUy1hzMZcTLkH7jgkzU8gkhz9oDs7iUEOe7WzpA==",
+  "notes": "보험사 확인서: 상병코드 앞 세 자리·설명, 치조골이식(수술기록), 임플란트 장착일, 라이나 체크 위치 / 기공물 성별·나이 / 사진 저장 오류 고침",
   "channel": "test",
-  "publishedAt": "2026-11-25T04:31:06.116Z"
+  "publishedAt": "2026-11-26T09:33:47.235Z"
 }
