@@ -1,9 +1,9 @@
 {
-  "version": "0.1.66",
-  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.66/denbiseo-setup-0.1.66.exe",
-  "size": 124834560,
-  "sha512": "o4F5VGNnn1GVS1difAIC5HxyCEOXCGzhgUuSUyfJ0DfIdUoeOiKD+PYpY20YkmE7vqtjILv3DCK4MP83Sd/I9Q==",
-  "notes": "보험사 확인서: ABL생명 양식 추가, 진단일 = 같은 상병 처음 기록된 날, 치조골이식(수술기록 체크)",
+  "version": "0.1.67",
+  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.67/denbiseo-setup-0.1.67.exe",
+  "size": 124835112,
+  "sha512": "BP3bfK1lCc6A1AscSYHBaZ0WXAVefZQxwpz5xeYXbdL/8DojnvKicbitGXHGMrf0qPhPcnjaAL3/oi8gQhqTow==",
+  "notes": "환자 사진 정리: 안모·구내 촬영 폴더 따로",
   "channel": "test",
-  "publishedAt": "2026-11-26T10:19:58.550Z"
+  "publishedAt": "2026-11-26T10:23:24.523Z"
 }
