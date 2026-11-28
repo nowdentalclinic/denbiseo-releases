@@ -1,9 +1,9 @@
 {
-  "version": "0.1.67",
-  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.67/denbiseo-setup-0.1.67.exe",
-  "size": 124835112,
-  "sha512": "BP3bfK1lCc6A1AscSYHBaZ0WXAVefZQxwpz5xeYXbdL/8DojnvKicbitGXHGMrf0qPhPcnjaAL3/oi8gQhqTow==",
-  "notes": "환자 사진 정리: 안모·구내 촬영 폴더 따로",
+  "version": "0.1.68",
+  "url": "https://github.com/nowdentalclinic/denbiseo-releases/releases/download/v0.1.68/denbiseo-setup-0.1.68.exe",
+  "size": 124835575,
+  "sha512": "AytidLd+9MkrW/tbTZMAPUEm9OTROQUOmLf2cZdk1DEBZy4axvR3+OO5OamYOvHcrm3l6bQGdKqOpKbLjjvcjA==",
+  "notes": "보험사 치과치료확인서(라이나): 방사선 줄 상병코드 칸 위치, 치아 없는 방사선 줄은 같은 날 진료 상병으로",
   "channel": "test",
-  "publishedAt": "2026-11-26T10:23:24.523Z"
+  "publishedAt": "2026-11-28T05:42:42.643Z"
 }
